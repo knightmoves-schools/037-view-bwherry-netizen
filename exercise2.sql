@@ -1,1 +1,1 @@
--- Add your SQL here
+SELECT * FROM Employee_Contact;
